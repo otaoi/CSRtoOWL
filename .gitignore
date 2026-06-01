@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Virtual Environments
+.venv/
+__pycache__/
+
+# Patient Data / Testing Files
+*.pdf
+*.csv
