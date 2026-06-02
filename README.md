@@ -12,7 +12,7 @@ Pipeline from CSR (Counselling Service Request Form) to OWL Practice to efficien
 ### 1. Clone the Repository
 
 ```
-git@github.com:YOUR-USERNAME/CSRtoOWL.git
+git clone git@github.com:YOUR-USERNAME/CSRtoOWL.git
 ```
 
 ### 2. Set Up Virtual Environment
