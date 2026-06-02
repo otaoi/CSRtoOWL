@@ -61,6 +61,6 @@ Contributions are highly encouraged! Whether it is adding support for a new form
 
 2. Push your branch to your forked repository.
 
-3. Open a Pull Request against the `ain branch of the original repo.
+3. Open a Pull Request against the main branch of the original repo.
 
 4. In your PR description, explain what you changed and why.
